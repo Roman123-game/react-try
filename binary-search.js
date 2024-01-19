@@ -1,4 +1,5 @@
 const array = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+const sum = 12
 let count = 0
 console.time()
 function binarySearch(array, item) {
@@ -22,6 +23,7 @@ function binarySearch(array, item) {
         }
     }
     return position;
+    position 
 }
 
 function recursiveBinarySearch(array, item, start, end) {
