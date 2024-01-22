@@ -23,7 +23,7 @@ function binarySearch(array, item) {
         }
     }
     return position;
-    position 
+    
 }
 
 function recursiveBinarySearch(array, item, start, end) {
